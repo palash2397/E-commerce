@@ -30,7 +30,7 @@ To deploy this project run on
 
 
 ```bash
- on remix IDE
+ remix IDE
 ```
 with metamask
 
