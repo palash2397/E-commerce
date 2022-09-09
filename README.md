@@ -6,7 +6,7 @@ In this contract the owner would set the data and get the data of the customers
 
 ## Information
 
-I have made the contract by using enum, struct and other types of variable. In this contract the owner will set the data of customer and withe help of key will get the data 
+I have made the contract by using enum, struct and other types of variable. In this smart contract the seller will add the product and buyer will buy the product with unique id and update the product status
 
 
 
