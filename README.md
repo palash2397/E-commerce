@@ -1,7 +1,7 @@
 
-# Toroly (E-commerce Smart Contract)
+# Toroly 
 
-In this contract the owner would set the data and get the data of the customers
+E-commerce Smart Contract
 
 
 ## Information
