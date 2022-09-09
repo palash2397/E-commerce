@@ -28,10 +28,11 @@ Gmail:- palashpatil@gmail.com
 
 To deploy this project run
 
+
 ```bash
   run on remix IDE
 ```
-
+with metamask
 
 ## Feedback
 
